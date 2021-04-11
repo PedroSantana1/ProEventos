@@ -1,27 +1,41 @@
-# ProEventos - Curso Udemy
+<h1 align="center">
+  <img alt="UdemyLogo" title="UdemyLogo" src="https://melaniegrace.com/wp-content/uploads/2020/05/about-default.png" width="350px" />
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p align="center">
+  <img alt="pro.eventos" src=".github/proeventos.png" width="100%">
+</p>
 
-## Code scaffolding
+## 🚀 Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Build
+- .NET Core
+- Entity Framework Core
+- Angular
+- SQLite
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## 💻 Projeto
 
-## Running unit tests
+O ProEventos é uma aplicação WEB destinada á partilha de eventos.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Como utilizar
 
-## Running end-to-end tests
+Run `dotnet run` in 'Back/src/ProEventos.API' to execute the API.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng serve -o` in 'Front/ProEventos-App' to execute the Angular.
 
-## Further help
+## Curso
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://www.udemy.com/course/angular-dotnetcore-efcore/
+
+---
+
+Feito com ♥ by Pedro Santana
